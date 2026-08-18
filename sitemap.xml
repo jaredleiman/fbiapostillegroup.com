@@ -1,70 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Homepage -->
-  <url>
-    <loc>https://www.fbiapostillegroup.com/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
+<!-- Homepage -->
+<url>
+<loc>https://www.fbiapostillegroup.com/</loc>
+<lastmod>2026-04-17</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
+</url>
 
-  <!-- Blog Index -->
-  <url>
-    <loc>https://www.fbiapostillegroup.com/blog/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
+<!-- Blog Index -->
+<url>
+<loc>https://www.fbiapostillegroup.com/blog/</loc>
+<lastmod>2026-08-18</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
 
-  <!-- Blog Posts -->
-  <url>
-    <loc>https://www.fbiapostillegroup.com/blog/fbi-background-check-apostille-complete-guide</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
+<!-- Blog Posts -->
+<url>
+<loc>https://www.fbiapostillegroup.com/blog/fbi-background-check-apostille-complete-guide</loc>
+<lastmod>2026-04-17</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
+</url>
 
-  <url>
-    <loc>https://www.fbiapostillegroup.com/blog/fbi-background-check-apostille-processing-time</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+<url>
+<loc>https://www.fbiapostillegroup.com/blog/fbi-background-check-apostille-processing-time</loc>
+<lastmod>2026-04-17</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
 
-  <url>
-    <loc>https://www.fbiapostillegroup.com/blog/how-to-get-fbi-background-check-apostille</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+<url>
+<loc>https://www.fbiapostillegroup.com/blog/how-to-get-fbi-background-check-apostille</loc>
+<lastmod>2026-04-17</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
 
-  <url>
-    <loc>https://www.fbiapostillegroup.com/blog/fbi-apostille-for-italy</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+<url>
+<loc>https://www.fbiapostillegroup.com/blog/fbi-apostille-for-italy</loc>
+<lastmod>2026-04-17</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
 
-  <url>
-    <loc>https://www.fbiapostillegroup.com/blog/fbi-apostille-latin-america-mexico-brazil-colombia</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+<url>
+<loc>https://www.fbiapostillegroup.com/blog/fbi-apostille-latin-america-mexico-brazil-colombia</loc>
+<lastmod>2026-04-17</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
 
-  <url>
-    <loc>https://www.fbiapostillegroup.com/blog/fbi-apostille-dual-citizenship</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+<url>
+<loc>https://www.fbiapostillegroup.com/blog/fbi-apostille-dual-citizenship</loc>
+<lastmod>2026-04-17</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
 
-  <url>
-    <loc>https://www.fbiapostillegroup.com/blog/fbi-apostille-vs-state-apostille</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+<url>
+<loc>https://www.fbiapostillegroup.com/blog/fbi-apostille-vs-state-apostille</loc>
+<lastmod>2026-04-17</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+
+<url>
+<loc>https://www.fbiapostillegroup.com/blog/fbi-apostille-for-italian-citizenship-by-descent</loc>
+<lastmod>2026-05-15</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+
+<url>
+<loc>https://www.fbiapostillegroup.com/blog/fbi-apostille-for-foreign-adoption</loc>
+<lastmod>2026-05-15</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+
+<url>
+<loc>https://www.fbiapostillegroup.com/blog/fbi-apostille-for-mexican-temporary-residency</loc>
+<lastmod>2026-05-15</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+
+<url>
+<loc>https://www.fbiapostillegroup.com/blog/fbi-apostille-for-spanish-non-lucrative-visa</loc>
+<lastmod>2026-05-15</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+
+<url>
+<loc>https://www.fbiapostillegroup.com/blog/fbi-apostille-vs-state-background-checks</loc>
+<lastmod>2026-05-15</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+
+<url>
+<loc>https://www.fbiapostillegroup.com/blog/fbi-background-check-citizenship-by-descent</loc>
+<lastmod>2026-08-18</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+
+<url>
+<loc>https://www.fbiapostillegroup.com/blog/fbi-background-check-foreign-residency-permanent-residency</loc>
+<lastmod>2026-08-18</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
 
 </urlset>
